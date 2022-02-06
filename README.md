@@ -4,7 +4,7 @@ First project in react - add a name and a number in a list
 ![Alt Text](https://github.com/AnnaZaragoza/06-ToAddList/blob/95aa09bd5e234637b9bdbf6fdd4df3871e68e231/readmeImage.jpg)
 
 # Description:
-Simple site that add a name and a number in a list. It also alert if the input is not correct (currently working on this part still)
+Simple site that adds a name and a number (age) into a list. It also alert if the input is not correct (currently working on this part still)
 
 # What was practiced:
 * Creation of components
