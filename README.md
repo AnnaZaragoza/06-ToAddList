@@ -1,4 +1,4 @@
-# 06-ToAddList
+# ToAddList
 First project in react - add a name and a number in a list
 
 ![Alt Text](https://github.com/AnnaZaragoza/06-ToAddList/blob/95aa09bd5e234637b9bdbf6fdd4df3871e68e231/readmeImage.jpg)
